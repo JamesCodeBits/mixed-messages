@@ -1,8 +1,8 @@
 {
   "name": "mixed-messages",
   "version": "1.0.0",
-  "description": "My package.json file",
-  "main": "index.js",
+  "description": "a javascript project",
+  "main": "scripts/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
