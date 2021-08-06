@@ -1,0 +1,20 @@
+{
+  "name": "mixed-messages",
+  "version": "1.0.0",
+  "description": "My package.json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesCodeBits/mixed-messages.git"
+  },
+  "author": "James CodeBits",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/JamesCodeBits/mixed-messages/issues"
+  },
+  "homepage": "https://github.com/JamesCodeBits/mixed-messages#readme"
+}

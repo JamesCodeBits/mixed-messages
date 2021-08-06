@@ -2,6 +2,8 @@
 import { content } from './content.js'
 import { randomNum } from './helpers.js'
 
-randomNum('eggs')
-console.log(content)
+const monsterName = content.monster[randomNum(content.monster)]
+const monsterSuggestion = content.suggestions[randomNum(content.suggestions)]
+const monsterActivity = content.activities[randomNum(content.activities)]
 
+console.log(`${monsterName} ${monsterSuggestion} ${monsterActivity}`)
