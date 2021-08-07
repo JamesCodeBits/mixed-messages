@@ -1,6 +1,6 @@
-## Mixed Messages - Monster Edition
+## Mixed Messages (Monster Edition)
 
-* A suggestion generator brought to you by your favourite monsters! 
+* An activity suggestion generator brought to you by your favourite monsters! 
 
 
 ## Built With 
