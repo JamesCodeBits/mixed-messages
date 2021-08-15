@@ -1,0 +1,22 @@
+body {
+    background-color: #151514;
+    text-align: center;
+    padding: 20px;
+}
+
+
+h1 {
+    color: #CD2D32;
+}
+
+p {
+    color: #B0FE76;
+}
+
+button {
+    background-color:#CD2D32;
+    ;
+    border: none;
+    padding: 10px;
+    color: #fff;
+}
