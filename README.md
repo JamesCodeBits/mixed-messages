@@ -26,7 +26,7 @@ run app
 * Publish on GitHub pages
 
 ## Acknowledgements
-* [Codeacademy](https://www.codeacademy.com)
+* [Codecademy](https://www.codeacademy.com)
 
 ## Licence
 * Use freely...just don't scare yourself! 
